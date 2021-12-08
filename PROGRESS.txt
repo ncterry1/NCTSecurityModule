@@ -1,0 +1,27 @@
+----------PROGRESS-----------
+List of tasks, and completions for this project. 
+
+--------------
+
+
+Created a NCTSecurityModule\README----------------------------------------- In Progress
+
+
+
+Created  NCTSecurityModule\InstallNCTSecurityModule.ps1 script-------------- Done
+Created  NCTSecurityModule\NCTSecurityModule.psm1 Module Import Script------------- Done
+
+MENU
+Created a template for menus (NCTSecurityModule\NCTSecurityProgram\menuTemplate.ps1)-------------- Done
+Created  NCTSecurityModule\NCTSecurityProgram\Menu\    Directory------------------- Done
+Created  NCTSecurityModule\NCTSecurityProgram          Directory------------------- Done
+Created  NCTSecurityModule\NCTSecurityProgram\RunNCTSecurityProgram.ps1-----In Progress
+Created  NCTSecurityModule\NCTSecurityProgram\RunNCTSecurityProgram.ps1 Shorcut ----Done
+
+
+Created  NCTSecurityModule\Functions    Directory----------------- Done
+Created a template for functions (NCTSecurityModule\Functions\1_FunctionTemplate.ps1)-------------- Done
+
+
+Created  NCTSecurityModule\Data Directory---------------------- Done
+Created  NCTSecurityModule Directory--------------------------- Done
